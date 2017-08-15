@@ -15,7 +15,7 @@ Download all associated files and load them up in your favorite text editor!
 
 ## Development setup
 
-This app relies on NodeJS for its functionality. I recommend using nodemon [nodemon](https://www.npmjs.com/package/nodemon) to run this server.
+This app relies on NodeJS for its functionality. I recommend using [nodemon](https://www.npmjs.com/package/nodemon) to run this server.
 
 ```sh
 npm install -g nodemon
