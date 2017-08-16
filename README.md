@@ -1,7 +1,7 @@
 # Express Server
 > Uses an Express framework to build a simple server to serve an entire directory and some data for an application.
 
-This was my fifth project at Origin Code Academy. This server was created using NodeJS, Express, and morgan.
+This was my fifth project at Origin Code Academy. This server was created using NodeJS and Express. I used morgan to log all incoming requests.
 
 ![](express-server.png)
 
