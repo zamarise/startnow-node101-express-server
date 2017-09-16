@@ -9,12 +9,12 @@ var app = express();
 var morgan = require('morgan');
 app.use(morgan('dev'));
 
-app.get('/data', function(req, res){
+app.get('/data', function(req, res) {
   res.json(dataTopSpots);
 });
 
-app.get('/', function(req, res){
-  res.writeHead(200, {'Content-Type': 'text/html'});
+app.get('/', function(req, res) {
+  res.writeHead(200, { 'Content-Type': 'text/html' });
   res.end();
 });
 
